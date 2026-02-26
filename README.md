@@ -6,7 +6,7 @@ href="www.linkedin.com/in/nicole-barajas-0067b35a">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/users/nicolebarajas-ship-it/projects/1)
 
 <h2>📚Certifications:</h2>
 
