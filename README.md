@@ -11,7 +11,7 @@ href="www.linkedin.com/in/nicole-barajas-0067b35a">Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=d698be7e-4d56-48e1-8fed-64b4240e9797)
 
 
 <h2>📱Connect with me:</h2>
